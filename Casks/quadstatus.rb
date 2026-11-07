@@ -1,6 +1,6 @@
 cask "quadstatus" do
   version "1.0.0"
-  sha256 "fb23dacb9beb472bb31529e97aae0d5a9a58e9d6fd7ef73147948c9f0c3d6f90"
+  sha256 "03d7d0f9bf4c95d3462090a867e4cb8458ece2c062a7c29bbd7a9a4e1ff062a9"
 
   url "https://github.com/chocholous/QuadStatus/releases/download/v#{version}/QuadStatus-#{version}.dmg"
   name "QuadStatus"
